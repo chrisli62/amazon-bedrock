@@ -1,4 +1,5 @@
 AWS & DeepLearning.AI course
+Serverless LLM Apps Amazon Bedrock
 
 Prompt an LLM and customize its responses with Amazon Bedrock
 Convert audio to text with Amazon Transcribe, then summarize with LLM
